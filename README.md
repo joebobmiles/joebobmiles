@@ -32,11 +32,11 @@ My name is Joseph Miles, you're friendly neighborhood hacker 👨‍💻.
 
 | 📧 | 🐤 |
 |:-:|:-:|
-| joe@jrm.dev | [@joebobmiles](twitter.com/@joebobmiles) |
+| joe@jrm.dev | [@joebobmiles](https://twitter.com/@joebobmiles) |
 
 ### 😄 Pronouns:
 
-[He](http://pronoun.is/he)/[they](https://pronoun.is/they)
+[He](https://pronoun.is/he)/[they](https://pronoun.is/they)
 
 ### ⚡ Fun fact:
 
