@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Joseph Miles, you're friendly neighborhood hacker 👨‍💻.
+My name is Joseph Miles, your friendly neighborhood hacker 👨‍💻.
 
 ## 🔭 I’m currently working on ...
 
