@@ -19,6 +19,8 @@ My name is Joseph Miles, your friendly neighborhood hacker 👨‍💻.
  
 ## Etc ...
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R837P7O)
+
 ### 💬 Ask me about ...
 
  - Functional programming
