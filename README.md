@@ -8,6 +8,7 @@ My name is Joseph Miles, your friendly neighborhood hacker 👨‍💻.
  - A virtual tabletop (VTT) for tabletop RPGs and wargames called [RPG (Repeated Pleasant Games)](https://github.com/repeated-pleasant-games) [Tabletop](https://github.com/repeated-pleasant-games/tabletop).
  - Utilities for [functional programming in TypeScript](https://github.com/functional-things/functional-things).
  - A [polyfill for JSDOM](https://github.com/joebobmiles/pointer-events-polyfill) to provide proper PointerEvent support.
+ - Implementing TailwindCSS in pure Sass.
  
 ## 🌱 I’m currently learning ...
 
@@ -16,6 +17,7 @@ My name is Joseph Miles, your friendly neighborhood hacker 👨‍💻.
  - Styled Components.
  - Monorepos + Yarn Workspaces.
  - Semantic Versioning (automated with Semantic Release!) + Coventional Commits.
+ - Sass and it's limits (very few).
  
 ## Etc ...
 
@@ -25,6 +27,7 @@ My name is Joseph Miles, your friendly neighborhood hacker 👨‍💻.
 
  - Functional programming
  - TypeScript
+ - The crazy things you can do in Sass
  - How to setup Semantic Release for monorepos
  - How to publish to both NPM and GitHub Packages with Semantic Release
  - Turning your personal configurations into NPM packages
