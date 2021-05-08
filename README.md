@@ -7,7 +7,6 @@ My name is Joseph Miles, your friendly neighborhood hacker 👨‍💻.
  - [Learning in public.](https://jrm.dev)
  - A virtual tabletop (VTT) for tabletop RPGs and wargames called [RPG (Repeated Pleasant Games)](https://github.com/repeated-pleasant-games) [Tabletop](https://github.com/repeated-pleasant-games/tabletop).
  - Utilities for [functional programming in TypeScript](https://github.com/functional-things/functional-things).
- - A [polyfill for JSDOM](https://github.com/joebobmiles/pointer-events-polyfill) to provide proper PointerEvent support.
  - Implementing TailwindCSS in pure Sass.
  
 ## 🌱 I’m currently learning ...
