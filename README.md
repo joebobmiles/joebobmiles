@@ -5,18 +5,20 @@ My name is Joseph Miles, your friendly neighborhood hacker 👨‍💻.
 ## 🔭 Things I'm currently working on
 
  - [Learning in public.](https://jrm.dev)
- - A virtual tabletop (VTT) for tabletop RPGs and wargames called [RPG (Repeated Pleasant Games)](https://github.com/repeated-pleasant-games) [Tabletop](https://github.com/repeated-pleasant-games/tabletop).
- - Utilities for [functional programming in TypeScript](https://github.com/functional-things/functional-things).
+ - A virtual tabletop (VTT) for tabletop RPGs and wargames called [RPG (Repeated Pleasant Games)](/repeated-pleasant-games) [Tabletop](/repeated-pleasant-games/tabletop).
+ - [A middleware for Zustand](/joebobmiles/zustand-middleware-yjs) that turns stores into CRDTs with Yjs.
+ - Utilities for [functional programming in TypeScript](/functional-things/functional-things).
  - Implementing TailwindCSS in pure Sass.
  
 ## 🌱 Things I'm currently learning
 
  - How to learn in public.
  - Functional programming (finally).
- - Styled Components.
  - Monorepos + Yarn Workspaces.
  - Semantic Versioning (automated with Semantic Release!) + Coventional Commits.
  - Sass and it's limits (very few).
+ - Building Zustand middleware.
+ - Using Yjs for building distributed, local-first applications.
  
 ## Etc
 
