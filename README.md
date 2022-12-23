@@ -16,10 +16,6 @@ My name is Joseph Miles, your friendly neighborhood hacker 👨‍💻.
  - Using Yjs for building distributed, local-first applications.
  - Building Zustand middleware.
  - Semantic Versioning (automated with Semantic Release!) + Coventional Commits.
- 
-## Etc
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R837P7O)
 
 ### 💬 Ask me about
 
